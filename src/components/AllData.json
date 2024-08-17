@@ -1,0 +1,88 @@
+{
+    "slider": [
+        {
+            "img1": "slider-1.jpeg",
+            "title1": "Interior",
+            "title2": "Emulsions",
+            "para1": "Excellent fungal resistance | smooth finish"
+        },
+        {
+            "img2": "slider-1.jpeg",
+            "title1": "Interior",
+            "title2": "Emulsions",
+            "para2": "Excellent fungal resistance | smooth finish"
+        }
+       
+    ],
+    "about": [
+        {
+            "img1": "about.jpeg",
+            "playicon": "play.png",
+            "title": "About Astral Paints ",
+            "title2": "Bringing your dreams to life ",
+            "para1": "Lorem ipsum dolor sit amet consectetur. Placerat elementum lobortis phasellus porttitor amet odio tempor. Ac molestie fames id urna dui posuere ultricies aliquam. Gravida et ac ac donec. Lacus est diam at in pharetra velit luctus id pellentesque",
+            "para2": "Lorem ipsum dolor sit amet consectetur. Placerat elementum lobortis phasellus porttitor amet odio tempor. Ac molestie fames id urna dui posuere ultricies aliquam. Gravida et ac ac donec. Lacus est diam at in pharetra velit luctus id pellentesque"
+        }
+    ],
+    "category": [
+        {
+            "Category1": "c1.jpeg",
+            "Category2": "c2.jpeg",
+            "Category3": "c3.jpeg",
+            "Category4": "c4.jpeg",
+            "Category5": "c5.jpeg",
+            "title": "Category ",
+            "title2": "Wide range of Colours",
+            "categoryt1": "Interior Paints",
+            "categoryt2": "Exterior Paints",
+            "categoryt3": "Water Proofing",
+            "categoryt4": "Undercoats",
+            "categoryt5": "Painting Tools"
+        }
+    ],
+    "service": [
+        {
+            "service1": "s1.jpeg",
+            "service2": "s2.jpeg",
+            "service3": "s3.jpeg",
+            "title": "Services ",
+            "title2": "make your life comfortable",
+            "servicet1": "Wall Painting",
+            "servicep1": "Lorem ipsum dolor sit amet consectetur.",
+            "servicet2": "Water Solution",
+            "servicep2": "Lorem ipsum dolor sit amet consectetur.",
+            "servicet3": "Painting",
+            "servicep3": "Lorem ipsum dolor sit amet consectetur."
+        }
+    ],
+    "join": [
+        {
+            "bg": "join.jpeg",
+            "para1": "Join the Success Journey",
+            "para2": "Become a Dealer",
+            "para3": "Lorem ipsum dolor sit amet consectetur. Integer dui quam nisi ",
+            "para4": "in ornare. Nec in tristique et ultrices sit ullamcorper massa tempor et."
+        }
+    ],
+    "blog": [
+        {
+            "blog1": "b1.jpeg",
+            "blog2": "b2.jpeg",
+            "blog3": "b3.jpeg",
+            "blog4": "b4.jpeg",
+            "blog5": "b5.jpeg",
+            "title": "Our Blog",
+            "title2": "Latest",
+            "blogt1": "10 Jan 2024",
+            "blogp1": "How to choose the perfect wall colour ",
+            "blogt2": "10 Jan 2024",
+            "blogp2": "How to choose the perfect wall colour ",
+            "blogt3": "20 Jan 2024",
+            "blogp3": "How to choose the perfect wall colour ",
+            "blogt4": "10 Jan 2024",
+            "blogp4": "How to choose the perfect wall colour ",
+            "blogt5": "10 Jan 2024",
+            "blogp5": "How to choose the perfect wall colour "
+        }
+    ]
+}
